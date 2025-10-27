@@ -8,3 +8,5 @@ Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 Saved/Logs/UE5MathAssessment.log
 Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_ea5d70b5306083b5/Default/DDCKey-Editor.txt
 Saved/Telemetry/Telemetry.json
+*.bin
+*.dmp
