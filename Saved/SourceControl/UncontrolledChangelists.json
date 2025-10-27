@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projects/TestProject/Content/BP_PlayerCube.uasset",
+				"D:/Projects/TestProject/Content/TestMap.umap",
+				"D:/Projects/TestProject/Content/BP_SpinningCube.uasset",
+				"D:/Projects/TestProject/Content/BP_Target.uasset",
+				"D:/Projects/TestProject/Content/BP_Projectile.uasset",
+				"C:/Users/seth.pontiff/Documents/Unreal Projects/TestProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/seth.pontiff/Documents/Unreal Projects/TestProject/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/seth.pontiff/Documents/Unreal Projects/TestProject/Content/TestMap.umap",
+				"C:/Users/seth.pontiff/Documents/Unreal Projects/TestProject/Content/BP_SpinningCube.uasset",
+				"C:/Users/seth.pontiff/Documents/Unreal Projects/TestProject/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset",
+				"C:/Users/seth.pontiff/Documents/Unreal Projects/TestProject/Content/BP_PlayerCube.uasset",
+				"C:/Users/seth.pontiff/Documents/Unreal Projects/TestProject/Content/BP_Projectile.uasset",
+				"C:/Users/seth.pontiff/Documents/Unreal Projects/TestProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/seth.pontiff/Documents/Unreal Projects/TestProject/Content/StarterContent/Shapes/Shape_Cube.uasset"
+			]
+		}
+	]
+}
