@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Projects/UE5-Math-Assessment/Content/BP_Target.uasset",
+				"D:/Projects/UE5-Math-Assessment/Content/BP_AutoTurret.uasset",
+				"D:/Projects/UE5-Math-Assessment/Content/TestMap.umap",
+				"D:/Projects/UE5-Math-Assessment/Content/BP_PlayerCube.uasset",
 				"D:/Projects/TestProject/Content/BP_PlayerCube.uasset",
 				"D:/Projects/TestProject/Content/TestMap.umap",
 				"D:/Projects/TestProject/Content/BP_SpinningCube.uasset",
